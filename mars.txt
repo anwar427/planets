@@ -1,2 +1,5 @@
 Mars looks like a nice place to live.
-nothing here
+<<<<<<< HEAD
+nothing hzz=======
+nothing needs to add here. everything alright.
+>>>>>>> e9c621cbd8a8df9b77390e5e65500f96cf7a97aa
